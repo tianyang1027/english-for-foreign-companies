@@ -174,3 +174,118 @@
 - Off track：偏离计划
 - Blocked：被阻塞
 - Out of scope：不在范围内
+
+
+# 外企程序员日常沟通句子（100句）
+
+## 一、问候 & 日常寒暄 (Greetings & Small Talk)
+1. Good morning!
+2. How’s your day going?
+3. Did you have a good weekend?
+4. How’s everything on your side?
+5. I hope you had a productive day yesterday.
+6. How’s the project coming along?
+7. Long time no see!
+8. How’s your workload this week?
+9. Everything okay on your end?
+10. Nice to see you online!
+
+## 二、工作安排 & 任务沟通 (Task & Work Discussion)
+11. What are you working on right now?
+12. Can you give me a quick update on your tasks?
+13. I’ll take care of this task.
+14. Let’s prioritize this for today.
+15. Can you help me with this ticket?
+16. I’ve finished my part; what’s next?
+17. Let’s split the tasks.
+18. Do you have time to review this?
+19. I’ll handle the backend part.
+20. Could you check if this is correct?
+21. Should we use async/await or Promises here?
+22. I’ll push the changes to GitHub.
+23. Let’s do a code review tomorrow.
+24. This function seems redundant.
+25. Can we make this more modular?
+26. I suggest using a hook for this.
+27. This dependency needs updating.
+28. The API response is different than expected.
+29. Let’s debug this together.
+30. I’ll create a PR for this fix.
+
+## 三、代码讨论 & 技术问题 (Code & Technical Discussion)
+31. Can you walk me through your code?
+32. What do you think of this approach?
+33. I think there’s a bug in this function.
+34. Let’s refactor this part.
+35. We need to optimize this loop.
+36. I’m getting an error here; can you help?
+37. This component is not rendering properly.
+38. Have you checked the logs?
+39. Let’s write a unit test for this.
+40. Can we merge this branch now?
+
+## 四、会议 & 视频沟通 (Meetings & Calls)
+41. Can we schedule a quick sync?
+42. Let’s have a stand-up meeting.
+43. I’m running late for the meeting.
+44. Can you share your screen?
+45. Let’s go through the agenda.
+46. Can we record this session?
+47. Please mute your mic when not speaking.
+48. Any blockers you’re facing?
+49. Let’s summarize the action items.
+50. Could you send the meeting notes?
+51. I’ll take notes for today.
+52. Let’s follow up on this later.
+53. Can we move the meeting to 3 PM?
+54. I have a conflict at that time.
+55. Thanks for the insightful discussion.
+56. Can we have a separate session for this topic?
+57. I’ll prepare a demo for the next meeting.
+58. Let’s review the roadmap.
+59. Could you clarify that point again?
+60. We need more data before deciding.
+
+## 五、请求帮助 & 协作 (Requesting Help & Collaboration)
+61. Could you help me debug this issue?
+62. I’m stuck with this bug.
+63. Can you give me some advice?
+64. Can you review my code?
+65. I need your input on this.
+66. Could you explain this module?
+67. Let’s pair program on this task.
+68. Can you test this feature?
+69. I’m not sure how to implement this.
+70. Can you share your solution?
+71. Do you have experience with this library?
+72. Can you suggest a better approach?
+73. I need access to the database.
+74. Can you help me set up the environment?
+75. I need clarification on the requirements.
+76. Could you walk me through the API?
+77. I’d appreciate your feedback.
+78. Can you check the deployment logs?
+79. Let’s collaborate on this PR.
+80. I need help understanding this error.
+
+## 六、进度汇报 & 状态更新 (Progress & Status Updates)
+81. I’ve completed the task.
+82. I’m halfway done with this feature.
+83. The bug has been fixed.
+84. The deployment is successful.
+85. I’m still working on the tests.
+86. The merge request is pending.
+87. I’ll finish this by EOD.
+88. The issue is resolved.
+89. I’m waiting for approval.
+90. The feature is ready for QA.
+91. I need more time to complete this.
+92. We’re blocked by an external dependency.
+93. I’ll escalate this if needed.
+94. The client has provided feedback.
+95. We’re on track with the timeline.
+96. The performance has improved.
+97. I’ve updated the documentation.
+98. The error is intermittent.
+99. I’ve synced with the team.
+100. Next steps are clear; I’ll proceed.
